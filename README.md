@@ -31,12 +31,3 @@ Here are some ideas to get you started:
   
 </div>
 
-</br>
-
-<h2><img height="20px" src="https://user-images.githubusercontent.com/50364832/143619165-74c703be-b3a3-4902-9563-07928511c2bc.gif" /> Github Analytics</h2>
-<div>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=kunal-gandhre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
- 
-</br>
-</br>
